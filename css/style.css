@@ -1,0 +1,449 @@
+.body{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    height: 100vh;
+    width: 100%;
+}
+
+.navbar{
+    height: 15%;
+    width: 100%;
+}
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.nav li{
+    list-style: none;
+    margin: 10px;
+    margin-top: 30px;
+}
+.nav button{
+    height: 35px;
+    width: 7%;
+    background-color: orangered;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+.image{
+    height: 85%;
+    width: 100%;
+    background-image: url(/images/banner.webp);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.image p{
+    font-size: 20px;
+    color:rgb(85, 84, 84) ;
+    width: 30%;
+}
+.image button{
+    color: rgb(103, 102, 102);
+}
+.image button{
+    height: 10%;
+    width: 10%;
+    border-radius: 30px;
+    background-color: brown;
+    color: aliceblue;
+    border: none;
+}
+
+
+
+.page2{
+    height: 100vh;
+    width: 100%;
+}
+
+.chapter{
+    height: 20%;
+    width:100% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.chapter h1{
+    font-size: 30px;
+    color: black;
+}
+.chapter h3{
+    font-size: 20px;
+    color: grey;
+}
+.pic{
+    height: 80%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pic1{
+    height: 100%;
+    width: 30%;
+}
+
+.pic1 img{
+    height: 40%;
+    width: 100%;
+}
+
+.pic2{
+    height: 100%;
+    width: 30%;
+}
+
+.pic2 img{
+    height: 40%;
+    width: 100%;
+}
+
+.pic3{
+    height: 100%;
+    width: 30%;
+}
+.pic img{
+    height: 40%;
+    width: 100%;
+}
+
+.page3{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+.vol{
+    height: 100%;
+    width: 50%;
+    background-image: url(/images/Family_cooking.webp);
+}
+.cap{
+    height: 100%;
+    width: 50%;
+}
+
+.cap h1{
+    color:red;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.cap h3{
+    color: rgba(0, 0, 0, 0.607);
+    font-size: 20px;
+    margin:50px;
+}
+
+.cap li{
+    color: black;
+    font-size:40px;
+    margin: 10px;
+}
+
+.cap button{
+    color: whitesmoke;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    margin: 50px;
+    border: none;
+    border-radius: 90px;
+    background-color: red;
+    height: 10%;
+    width: 40%;
+}
+.page4{
+    height: 100vh;
+    width: 100%;
+}
+
+.end{
+    height: 100%;
+    width: 100%;
+}
+.end h1{
+    color: black;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.end h3{
+    color: rgba(128, 128, 128, 0.968);
+    font-size: 3opx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.end button{
+    color: antiquewhite;
+}
+.pic6{
+    height: 45%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.img{
+    height: 100%;
+    width: 30%;
+}
+.img{
+    height: 100%;
+    width: 30%;
+}
+.img{
+    height: 100%;
+    width: 30%;
+}
+.high{
+height: 10%;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.high button{
+    color:white;
+    font-size:50px;
+   
+    border: none;
+    background-color: red;
+    border-radius: 90px;
+    height: 90%;
+    width: 20%;
+}
+
+.page5{
+    height: 100%;
+    width: 100%;
+}
+.start{
+    height: 45%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.start img{
+    height: 40%;
+    width: 20%;
+}
+
+.page7{
+    height: 100vh;
+    width: 100%;
+}
+.cool{
+    height: 40%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.cool h1{
+    color: black;
+    font-size: 30px;
+}
+.cool h2{
+    color: rgba(0, 0, 0, 0.768);
+    font-size: 20px;
+}
+.cool h3{
+    color: rgba(0, 0, 0, 0.856);
+    font-size: 15px;
+}
+.page8{
+    height: 100vh;
+    width: 100%;
+    background-image: url(/images/subscribe.webp);
+    background-size: cover;
+}
+.hipe{
+    height: 40%;
+    width: 80%;
+    background-color: ;
+    display: flex;justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.hipe h1{
+    color: black;
+    font-size: 30px;
+}
+.hike h3{
+    color: rgba(0, 0, 0, 0.79);
+    font-size: 20px;
+}
+.hike h4{
+    color: black;
+    font-size: 15px;
+}
+.page9{
+    height: 40%;
+    width: 50%;
+}
+.page10{
+    height: 100vh;
+    width: 100%;
+  
+}
+.page h1{
+    color: black;
+    font-size: 60px;
+}
+.page li{
+    color: rgba(0, 0, 0, 0.722);
+    font-size: 40px;
+}
+
+.page10{
+    height: 100vh;
+    width: 100%;
+}
+.chef{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chef h1{
+    color: orangered;
+    font-size: 50px;
+}
+
+
+.one{
+    height: 30%;
+    width: 100%;
+    display: flex;
+}
+
+.about{
+    height: 100%;
+    width: 15%;
+}
+.info{
+    height: 100%;
+    width: 15%;
+}
+.work{
+    height: 100%;
+    width: 15%;
+}
+.blog{
+    height: 100%;
+    width: 15%;
+}
+.blog img{
+    height: 50%;
+    width: 50%;
+}
+
+.big{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.out{
+    height: 100%;
+    width: 30%;
+}
+.out button{
+    color: antiquewhite;
+    background-color: orangered;
+    border: none;
+}
+
+.up{
+    height: 100%;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+
+.up h5{
+    height: 100%;
+    width: 30%;
+}
+.front{
+    height: 100%;
+    width: 30%;
+}
+
+.hyper{
+    height: 100%;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
